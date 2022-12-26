@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.anil.a2.B_ATM.java&apos; to &apos;BATM.java&apos;&#x0D;&#x0A;- Original project: &apos;Anil&apos;&#x0D;&#x0A;- Original element: &apos;com.anil.a2.B_ATM.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.anil.a2.BATM.java&apos;" description="Rename compilation unit &apos;B_ATM.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.anil.a2{B_ATM.java" name="BATM.java" references="false" stamp="1661480678188" version="1.0"/>
+</session>
